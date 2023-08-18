@@ -1,20 +1,25 @@
 # About me:
 
-Self-taught programmer.
+I'm a self-taught programmer and electrical engineering graduate by UFPA (Federal University of Pará), currently based on Florianópolis - SC, Brazil.
 
-Electrical engineering undergraduate by UFPA, at Belém, Brazil.
+It's been two years since when I first started learning Flutter and fell in love with mobile development. In my pursuit of becoming a Mobile Developer, I'm also delving into native Android development during my free time.
 
-Currently looking for an opportunity as Junior Backend Developer
+On my professional experience, I have extensively used the following techlogies:
+* Flutter
+* NestJS
+* Vue 3
 
-I have already made projects with the following technologies:
+Still, I also have experience with
 * Node.js
 * React
+* Angular
 * React Native
+* Ionic
 * Arduino (C++)
 
 ## Currently doing
 
-* Building [Agendaí](https://github.com/jose-azevedo/agendai-api) backend as a personal project.
+* Building [Smooth Dice](https://github.com/jose-azevedo/smooth_dice) Flutter app as a personal project.
 
 ## Previous projects
 
