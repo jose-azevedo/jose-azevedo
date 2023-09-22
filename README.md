@@ -35,4 +35,4 @@ Still, I also have experience with
 
 ## :envelope: Contact me
 
-- [Linkedin](https://www.linkedin.com/in/jos%C3%A9-roberto-azevedo-pires-690bab1b6/)
+- [Linkedin](https://www.linkedin.com/in/jose-roberto-azevedo/)
