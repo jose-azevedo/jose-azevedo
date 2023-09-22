@@ -18,7 +18,7 @@ Still, I also have experience with
 * Arduino (C++)
 
 ## Currently doing
-
+* Contributing to [arara](https://github.com/Miguel446/arara): a flutter app to find thrift shops in Belém, Brazil.
 * Building [Smooth Dice](https://github.com/jose-azevedo/smooth_dice) Flutter app as a personal project.
 
 ## Previous projects
